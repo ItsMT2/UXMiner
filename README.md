@@ -24,4 +24,4 @@ Esta destinado a cualquier usuario. Las personas que recién inician en el mundo
 
 ***Para correr UXMiner es necesario instalar .NET 5.0.**
 
-![UXMiner0 3 8 0](https://user-images.githubusercontent.com/87595766/131046021-e4d42838-ae64-4a01-a612-ca8216607104.jpg)
+![UXMinerScreenshot](https://user-images.githubusercontent.com/87595766/135670178-d100b03c-26c6-4e69-b8ce-785134389618.png)
